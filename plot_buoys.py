@@ -25,7 +25,7 @@ def plot_buoy_data():
     ax.set_xlim([bounds[0] - 0.5, bounds[2] + 0.5])
     north_atlantic.plot(ax=ax)
 
-    buoys_geo.plot(ax=ax, color="red")
+    buoys_geo.plot(ax=ax, color="green")
 
     axis_labels = []
 
