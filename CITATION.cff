@@ -9,3 +9,7 @@ type: software
 authors:
   - given-names: Tobias
     family-names: Ferreira
+identifiers:
+  - type: DOI
+    value: 10.5072/zenodo.306758
+data-released: 2025-08-06
